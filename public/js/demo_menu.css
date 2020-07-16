@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu{
+    float: left;
+    padding: 5px 15px;
+    border-bottom: 1px solid #333333;
+    position: relative;
+}
+.subMenu{
+    /*display: none;*/
+    position: absolute;
+    top: 28px;
+    left: 0px;
+    float: left;
+    width: 300px;
+    border: 1px solid #333333;
+}
